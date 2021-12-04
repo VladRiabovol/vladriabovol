@@ -36,7 +36,7 @@
 
 **Learning**
 
-![Design Patterns](https://img.shields.io/badge/-Design Patterns-DD0031?style=flat-square&logo=Design Patterns&logoColor=whiter)
+Design Patterns
 
 <!--
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
