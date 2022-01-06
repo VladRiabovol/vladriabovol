@@ -38,3 +38,5 @@
 **Learning**
 
 Design Patterns
+![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
+![DCRF](https://img.shields.io/badge/-DCRF-46a2f1?style=flat-square&logo=Django)
